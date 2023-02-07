@@ -14,3 +14,19 @@ trust: high
 fw0_GS_WMLAP18lPhvWPB4KOjhG35lg39rXGjLkVEBts24l-aFJ-xeTEFGTYARWar2HSdKsp09aAdVCBfOCECQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-02-06T23:18:38.063450591-08:00
+from:
+  id-type: crev
+  id: vMr-9g5KzKQLsCpkp1tc8o7AR6a0OptjOICjf7NMyHE
+  url: https://github.com/mobilecoinfoundation/crev-proofs
+ids:
+- id-type: crev
+  id: TUUh2iJxHIV8pDN2lU-ubgxFFrMRohIqAphSP66D2RM
+trust: high
+----- SIGN CREV PROOF -----
+c1zsZIOoBk5JVqZ26pEQ_CGcHWY0gDDYLDxZoJGa-7R3BUJf4kIV0vGaIlfisRe27WmuuslEGE56tsTJjIliDg
+----- END CREV PROOF -----
+
