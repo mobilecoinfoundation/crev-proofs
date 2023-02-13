@@ -49,3 +49,20 @@ comment: |-
 FX-pRjvolWuimMqGQKwjp9nX6agAqqUUhc7PfBgputA25SzQF8EDta8Dx6VhGnbwH6smIZOTrhvCSO0reQIWCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-02-13T11:50:19.571360100-08:00
+from:
+  id-type: crev
+  id: vMr-9g5KzKQLsCpkp1tc8o7AR6a0OptjOICjf7NMyHE
+  url: https://github.com/mobilecoinfoundation/crev-proofs
+ids:
+- id-type: crev
+  id: eeeE5K_fWMXYFt9Ay4OBy_hSQYopSoXNAdylp-_nG6Y
+  url: https://github.com/nick-mobilecoin/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+yPgFcJhXG3bXrkzhRDjDQhCkyf0aECXxLkKvksdRGExZVorRLsFuEw469nQtpTMs3f-Nn2tldYDCHaZ0dou1DQ
+----- END CREV PROOF -----
+
