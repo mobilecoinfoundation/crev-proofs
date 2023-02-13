@@ -37,7 +37,7 @@ cargo crev id new --github-username $GITHUB_USERNAME
 
 
 # Trust the upstream MobileCoin Foundation repository
-cargo crev id trust --level high https://github.com/mobilecoinfoundation/crev-proofs
+cargo crev trust --level high https://github.com/mobilecoinfoundation/crev-proofs
 
 # Publish the changes to your repository to github.
 cargo crev publish
