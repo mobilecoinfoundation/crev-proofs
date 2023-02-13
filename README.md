@@ -1,10 +1,10 @@
 # crev-proofs
 
-This repository exists to support auditing our dependencies. The basic idea is that this repository will link to individual developers' own `crev-proofs` repositories, which will 
+This repository exists to support auditing our dependencies. The basic idea is that this repository will link to individual developers' own `crev-proofs` repositories, which will contain the actual crev proofs.
 
 ## Setup
 
-This is a simplification of the 
+This is a simplification of the crev [Getting Started Guide](https://github.com/crev-dev/cargo-crev/blob/master/cargo-crev/src/doc/getting_started.md), which is recommended reading.
 
 ### Setup a Repository
 
